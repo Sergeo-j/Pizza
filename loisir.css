@@ -1,0 +1,7 @@
+
+* {
+    margin: 0;
+}
+div#bloc img {
+    width: 100%; height: 670px; z-index: -100;
+}
